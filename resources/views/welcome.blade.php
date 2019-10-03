@@ -86,5 +86,7 @@
                 </div>
             </div>
         </div>
+
+        <footer>By: Amos Ebenhaezer</footer>
     </body>
 </html>
